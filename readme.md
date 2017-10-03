@@ -201,21 +201,31 @@ create database YOURDATABASE;
 drop database YOURDATABASE;
 ```
 ## Introduction of the E-Lockbox
+
 ### Login Page
+
 General users, managers and administrator can login in here.
 ![picture1](https://user-images.githubusercontent.com/23087939/31134128-2325e00c-a816-11e7-83e5-a7d2108246a5.png)
+
 ### Verification Code Required
+
 Users need to use the verification code which sent to their email to login.
 ![picture2](https://user-images.githubusercontent.com/23087939/31134150-2c66ae4e-a816-11e7-95a3-47ab0f51b1c2.png)
+
 ### Main Page
+
 The Main Page shows the records of uploads and cases.
 ![picture3](https://user-images.githubusercontent.com/23087939/31134147-2c5b0670-a816-11e7-8675-a55b2c6b9267.png)
+
 ### Case Management
+
 General Users can view cases after login in. The managers can view, eidt cases after login. The administrators can view, edit, delete cases after login.
 ![picture10](https://user-images.githubusercontent.com/23087939/31134148-2c626b36-a816-11e7-9fd7-d5c494ea47fb.png)
 The managers and administrators can create cases for general users.
 ![picture14](https://user-images.githubusercontent.com/23087939/31134151-2c673094-a816-11e7-99fd-4e102bf1ea66.png)
+
 ### User Management
+
 The managers and administrators can view general user's profile and can inactive it by click inactive button.
 ![picture11](https://user-images.githubusercontent.com/23087939/31134155-2c86e86c-a816-11e7-82c1-5037d51bf87f.png)
 The managers and administrators can create user account.
@@ -225,12 +235,18 @@ The managers and administrators can create youth user account below.
 The managers and administrators can edit user profile.
 ![picture13](https://user-images.githubusercontent.com/23087939/31134143-2c3e71c2-a816-11e7-94c9-757bbcbd4ed0.png)
 
+##Prototype of the E-Lock Box
 
-Prototype for the main page
+###Prototype for the main page
+
 ![picture4](https://user-images.githubusercontent.com/23087939/31134149-2c64122e-a816-11e7-8dfa-5626412f7d94.png)
-Prototype for the create user
+
+###Prototype for the create user
+
 ![picture5](https://user-images.githubusercontent.com/23087939/31134152-2c7257ee-a816-11e7-8115-34c20fd4446d.png)
-Prototype for view cases
+
+###Prototype for view cases
+
 ![picture6](https://user-images.githubusercontent.com/23087939/31134157-2cb0b9a8-a816-11e7-85f1-88490e2d9eb7.png)
 
 
