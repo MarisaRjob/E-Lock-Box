@@ -235,17 +235,17 @@ The managers and administrators can create youth user account below.
 The managers and administrators can edit user profile.
 ![picture13](https://user-images.githubusercontent.com/23087939/31134143-2c3e71c2-a816-11e7-94c9-757bbcbd4ed0.png)
 
-##Prototype of the E-Lock Box
+## Prototype of the E-Lock Box
 
-###Prototype for the main page
+### Prototype for the main page
 
 ![picture4](https://user-images.githubusercontent.com/23087939/31134149-2c64122e-a816-11e7-8dfa-5626412f7d94.png)
 
-###Prototype for the create user
+### Prototype for the create user
 
 ![picture5](https://user-images.githubusercontent.com/23087939/31134152-2c7257ee-a816-11e7-8115-34c20fd4446d.png)
 
-###Prototype for view cases
+### Prototype for view cases
 
 ![picture6](https://user-images.githubusercontent.com/23087939/31134157-2cb0b9a8-a816-11e7-85f1-88490e2d9eb7.png)
 
