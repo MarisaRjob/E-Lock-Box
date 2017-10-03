@@ -202,15 +202,20 @@ drop database YOURDATABASE;
 ```
 ## Introduction of the E-Lockbox
 
+### Landing Page
+![picturemain](https://user-images.githubusercontent.com/23087939/31149053-829c7316-a843-11e7-9a4a-0010fd20eb18.png)
+
 ### Login Page
 
 General users, managers and administrator can login in here.
-![picture1](https://user-images.githubusercontent.com/23087939/31134128-2325e00c-a816-11e7-83e5-a7d2108246a5.png)
+![mainpicture1](https://user-images.githubusercontent.com/23087939/31149059-82b458b4-a843-11e7-9351-9bc677f7f3eb.png)
 
 ### Verification Code Required
 
-Users need to use the verification code which sent to their email to login.
+Users need to use the verification code to login.
 ![picture2](https://user-images.githubusercontent.com/23087939/31134150-2c66ae4e-a816-11e7-95a3-47ab0f51b1c2.png)
+Users recieve the verification code in an email below.
+![emailpicture](https://user-images.githubusercontent.com/23087939/31149058-82a65868-a843-11e7-925a-55cf22efc97b.png)
 
 ### Main Page
 
@@ -248,6 +253,11 @@ The managers and administrators can edit user profile.
 ### Prototype for the view cases page
 
 ![picture6](https://user-images.githubusercontent.com/23087939/31134157-2cb0b9a8-a816-11e7-85f1-88490e2d9eb7.png)
+
+### Prototype for the verification code
+![prototype verify code](https://user-images.githubusercontent.com/23087939/31149057-82a0693a-a843-11e7-918c-23cbe26d2707.png)
+![prototype verification code1](https://user-images.githubusercontent.com/23087939/31149055-829e8336-a843-11e7-86cd-80bab7aec390.png)
+![prototype verification code2](https://user-images.githubusercontent.com/23087939/31149054-829d4bb0-a843-11e7-8cee-89aff864ca37.png)
 
 
 ## Authors
