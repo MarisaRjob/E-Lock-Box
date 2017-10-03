@@ -200,7 +200,7 @@ create database YOURDATABASE;
 ```bash
 drop database YOURDATABASE;
 ```
-
+![alt text](E-Lock-Box/Picture1.png)
 
 
 ## Authors
