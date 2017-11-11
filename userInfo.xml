@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="oe.sfAdminTools.pref">
+      <map>
+        <entry key="username" value="rui.ma@openedgepay.com.admin4"/>
+        <entry key="password" value="RJkaiK0920Dashu!"/>
+      </map>
+    </node>
+  </root>
+</preferences>
