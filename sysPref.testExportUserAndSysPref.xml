@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="system">
+    <map/>
+    <node name="oe.sfAdminTools.test">
+      <map>
+        <entry key="string" value="testing"/>
+        <entry key="int" value="1"/>
+        <entry key="bool" value="true"/>
+        <entry key="double" value="2.0"/>
+      </map>
+    </node>
+  </root>
+</preferences>
