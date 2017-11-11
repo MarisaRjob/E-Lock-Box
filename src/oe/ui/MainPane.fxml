@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="oe.ui.MainPaneController">
+   <children>
+   
+           <BorderPane fx:id="mainWindow" layoutX="-1.0" prefHeight="900.0" prefWidth="900.0">
+               <center>
+                   <TabPane fx:id="tabPane" prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="ALL_TABS" BorderPane.alignment="CENTER">
+                       <tabs>
+                           <Tab fx:id="MainActionItemsTab" text="Action Items">
+                               <content>
+                                   <BorderPane prefHeight="200.0" prefWidth="200.0">
+                                       <top>
+                                           <Pane prefHeight="100.0" prefWidth="200.0">
+                                              <children>
+                                                  <Label layoutX="50.0" layoutY="50.0" text="Created Date Earlier than" />
+   
+                                       <ChoiceBox fx:id="DateFilter" layoutX="190.0" layoutY="50.0" prefWidth="150.0" />
+                                    <Label fx:id="ConnNoteLabel" layoutX="388.0" layoutY="50.0" text="Connection Failed!" />
+                                    <Label fx:id = "ConnAttachNoteLabel" layoutX="388.0" layoutY="50.0" text="Connect to attachments failed!" />
+                                              </children>
+                              </Pane>
+                                       </top>
+                                       <center>
+   
+                                   <TableView fx:id="actionTableView" layoutX="14.0" layoutY="100.0" prefHeight="221.0" prefWidth="547.0">
+
+                                </TableView>
+                           </center>
+                                   </BorderPane>
+                               </content>
+   
+                           </Tab>
+   
+                       </tabs>
+                   </TabPane>
+               </center>
+            <top>
+               <MenuBar BorderPane.alignment="CENTER">
+                 <menus>
+                   <Menu mnemonicParsing="false" text="Action Items">
+                     <items>
+                           <MenuItem mnemonicParsing="false" text="Open Items" />
+                       <MenuItem fx:id="closeItems" mnemonicParsing="false" onAction="#handleCloseItemsAction" text="Close Items" />
+                     </items>
+                   </Menu>
+                     <Menu mnemonicParsing="false" text="Setting">
+                        <items>
+      
+                            <MenuItem mnemonicParsing="false" text="Export Setting" />
+                        </items>
+   
+                     </Menu>
+                 </menus>
+               </MenuBar>
+            </top>
+           </BorderPane>
+   </children>
+
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+</GridPane>
