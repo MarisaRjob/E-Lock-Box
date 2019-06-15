@@ -1,6 +1,6 @@
 # eLockbox
 
-A data management system based on PHP, Laravel5 framework, and MySQL. Developed by USC CSCI577 2016Fall Team10.
+A data management system based on Java, PHP, Laravel5 framework, and MySQL. Developed by USC CSCI577 2016Fall Team10.
 
 This instruction will be organized by following parts.
 
